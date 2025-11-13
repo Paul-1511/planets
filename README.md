@@ -5,12 +5,9 @@ This repository contains a small CPU raycaster project that renders a miniature 
 Preview
 -----
 
-Below is a preview video of the project (local file in this repo):
+Below is a preview of the project:
 
-<video controls width="640">
-  <source src="./Sistema_solar.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can also download the file: [Sistema_solar.mp4](./Sistema_solar.mp4)
-</video>
+![Sistema Solar Preview](./Sistema_solar.gif)
 
 Quick start
 -----------
